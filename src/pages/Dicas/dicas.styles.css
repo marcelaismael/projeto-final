@@ -1,0 +1,25 @@
+.texto{
+  font-weight: 200;
+  font-size: 20px;
+  text-align: center;
+  margin: 20;
+}
+
+.bike {
+  
+  width: 40%;
+  left: 0pt;
+  background-color: white;
+  border-radius: 4px;
+  color: white;
+  padding: 8px;
+  align-items: flex-end;
+  
+}
+
+
+.container-dicas{
+  height: 500px;
+  margin-top: 20px;
+
+}

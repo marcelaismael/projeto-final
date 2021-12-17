@@ -1,0 +1,22 @@
+.tresboneco {
+  height: 300px;
+  width: 40%;
+  left: 0pt;
+  background-color: white;
+  border-radius: 4px;
+  color: white;
+  padding: 8px;
+}
+
+.ic-container{
+  display: flex;
+  margin:30px 30px;
+
+}
+ul, h3{
+  margin-top: 20px;
+}
+
+h2{
+  margin-bottom: 20px;
+}

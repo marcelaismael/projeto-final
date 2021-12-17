@@ -1,0 +1,27 @@
+
+.comendo img {
+ height: 500px;
+  width: 500px;
+  background-color: white;
+  border-radius: 4px;
+  color: white;
+
+ 
+}
+
+
+/* .texto{
+  font-weight: 200;
+  font-size: 20px;
+  text-align: center;
+  margin: 20px;
+} */
+.diagnostico{
+  display: flex;
+  justify-content: space-evenly;
+  margin:30px 30px;
+}
+
+.diagnostico-texto{
+  width: 400px;
+}

@@ -1,0 +1,44 @@
+.redes-sociais {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-justify: auto;
+    width: 500px;
+    height: 98px;
+    font-size: 14px;
+    margin: 00px auto;
+  }
+
+
+  .texto{
+    font-weight: 100;
+    font-size: 20px;
+    display: flex;
+  }
+
+  .caminhando img {
+    background-color: white;
+    color: white;
+    height: 500px;
+    width: 500px;
+   
+  
+    
+  }
+
+ .redes-sociais p {
+    text-align: center;
+  }
+  
+  .siga {
+    font-size: 16px;
+    text-align: center;
+  }
+
+  .container-autora{
+    display: flex;
+    justify-content: space-evenly;
+    margin:30px 30px;
+  }
